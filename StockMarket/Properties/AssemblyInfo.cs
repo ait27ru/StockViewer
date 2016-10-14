@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("StockViewer.WinForms")]
+[assembly: AssemblyTitle("StockMarket")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("StockViewer.WinForms")]
+[assembly: AssemblyProduct("StockMarket")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -22,7 +22,7 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 
-[assembly: Guid("d6d4916a-5805-4029-9129-60c06b8f5004")]
+[assembly: Guid("73f5e66e-5702-47e7-8046-30f79b2d33aa")]
 
 // Version information for an assembly consists of the following four values:
 //
